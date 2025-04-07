@@ -15,6 +15,7 @@
 - classification, regression, clustering, gpt, gan, svm, k-mean clustering … etc  
   > 라이브러리를 이해(python의 함수와 class를 이해)
   > → Numpy, Pandas, plot하는 visualization 툴
+- LLM애 대한 이해 및 적용(최근)
 
 ## 프로그래밍 실력
 - 높으면 높을수록 좋다. **But**, reference를 참조하면서 코드 작성이 가능하면 **Very OK!**
