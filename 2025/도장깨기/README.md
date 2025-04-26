@@ -9,7 +9,7 @@
 - LLM에 질문하고
 - 코딩을 학습한다.
 
-### 3. LLM과 코딩 작업 수행과정
+### 3. LLM과 코딩 작업 수행과정(하드/소프트 스킬 사용)
 1. 원자료 : Raw Data - https://adstat.kobaco.co.kr/mcr/portal/mainPage.do  에서 2018년/2019년도 데이터 수집 (https://adstat.kobaco.co.kr/mcr/portal/dataSet/mdssListPage.do)
 2. 데이터 수집 (Obtain Data)
     - 데이터의 결측치, 고유값, 데이터 형태, 데이터 내용 등 확인
