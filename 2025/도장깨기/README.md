@@ -17,6 +17,7 @@
     - Object 데이터 변환
 3. 결측치 대체 (Missing Value Imputation)
     - 결측치를 어떤 방식으로 처리(제거, 대체 방법 등등)할 지 결정
+        - 결측치를 가진 변수 : 소득, 
 
 4. 이상치 처리 (Anomoly Detection)
 5. 데이터 시각화 (Data Visulaization)
