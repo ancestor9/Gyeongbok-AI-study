@@ -1,6 +1,6 @@
 ## 데이터 전처리 및 시각화
 ### VIBE 코딩 (98% LLM을 활용, Almost No Coding)
-- Python Syntax + 함수와 Class 를 이해하고 (2 주)
+- Python Syntax + 함수와 Class 를 2주 동안 자습하여 이해하고 아래 작업을 직접 수행한다.
 
 #### 작업 수행과정
 1. 원자료 : Raw Data - https://adstat.kobaco.co.kr/mcr/portal/mainPage.do  에서 2018년/2019년도 데이터 수집 (https://adstat.kobaco.co.kr/mcr/portal/dataSet/mdssListPage.do)
