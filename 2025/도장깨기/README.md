@@ -3,9 +3,9 @@
 
 #### 작업 수행과정
 1. https://adstat.kobaco.co.kr/mcr/portal/mainPage.do  에서 2018년/2019년도 데이터 수집 (https://adstat.kobaco.co.kr/mcr/portal/dataSet/mdssListPage.do)
-2. 데이터 완성
-3. 결측치 대체
-4. 이상치 분석
+2. 데이터 수집 (Obtain Data)
+3. 결측치 대체 (Missing Value Imputation)
+4. 이상치 처리 (Anomoly Detection)
 5. 데이터 시각화 (Data Visulaization)
 6. 추가 변수 추출(특성공학, Feature Extraction)
 7. 특성 추출 (Feature Selection)
