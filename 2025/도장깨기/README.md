@@ -29,10 +29,20 @@
 
 3. 결측치 대체 (Missing Value Imputation)
     - 결측치를 어떤 방식으로 처리(제거, 대체 방법 등등)할 지 결정
-        - 결측치를 가진 변수 : 소득, 자녀수, 
-
-4. 이상치 처리 (Anomoly Detection)
+        - 결측치를 가진 변수 : 소득, 자녀수,
+          
+4. 이상치 처리 (Anomaly Detection)
+    - 상자박스 IQR
+      
 5. 데이터 시각화 (Data Visulaization)
+
 6. 추가 변수 추출(특성공학, Feature Extraction)
+    - 1. 기존변수 변환
+      - 정규화(number --> number) : https://pycaret.gitbook.io/docs/get-started/preprocessing/scale-and-transform 
+      - 이산화(number --> category) :  https://pycaret.gitbook.io/docs/get-started/preprocessing/feature-engineering
+      - dummy화(categoty --> number) : Onehotencoder
+
+    - 2. 새로운 변수 추출
 7. 특성 추출 (Feature Selection)
+
 8. 예측 모형 개발 
