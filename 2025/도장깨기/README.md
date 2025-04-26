@@ -6,8 +6,9 @@
 ### 2. 선지후행(先知後行)
 - 문제를 정의하고(Problem Definition)
 - 전체 작업을 설계하고(Process Definition)
+- 작업 방법론은 순차적으로 정의하고
 - LLM에 질문하고
-- 코딩을 학습한다.
+- 코딩을 만들고 그 내용을 공부한다.
 
 ### 3. LLM과 코딩 작업 수행과정(하드/소프트 스킬 사용)
 1. 원자료 : Raw Data - https://adstat.kobaco.co.kr/mcr/portal/mainPage.do  에서 2018년/2019년도 데이터 수집 (https://adstat.kobaco.co.kr/mcr/portal/dataSet/mdssListPage.do)
