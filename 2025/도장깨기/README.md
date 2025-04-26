@@ -13,9 +13,9 @@
 1. 원자료 : Raw Data - https://adstat.kobaco.co.kr/mcr/portal/mainPage.do  에서 2018년/2019년도 데이터 수집 (https://adstat.kobaco.co.kr/mcr/portal/dataSet/mdssListPage.do)
 2. 데이터 수집 (Obtain Data)
     - 데이터의 결측치, 고유값, 데이터 형태, 데이터 내용 등 확인
-  - Object 데이터 변환
+    - Object 데이터 변환
 3. 결측치 대체 (Missing Value Imputation)
-  - 결측치를 어떤 방식으로 처리(제거, 대체 방법 등등)할 지 결정
+    - 결측치를 어떤 방식으로 처리(제거, 대체 방법 등등)할 지 결정
 
 4. 이상치 처리 (Anomoly Detection)
 5. 데이터 시각화 (Data Visulaization)
