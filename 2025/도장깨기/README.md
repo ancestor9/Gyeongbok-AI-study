@@ -17,16 +17,59 @@
     - Object 데이터 변환
     - 통계학 데이터 종류와 예시
 
-# <small>통계학 데이터 종류와 예시</small>
+<div style="font-size:10px; line-height:1.2;">
 
-| <small>대분류</small> | <small>소분류</small> | <small>설명</small> | <small>예시</small> |
-|:------|:------|:------|:------|
-| <small>**범주형 (Categorical)**</small> | <small>**명목형 (Nominal)**</small> | <small>숫자에 의미 없이 단순 구분하는 데이터</small> | <small>성별(남/여), 혈액형(A/B/O/AB), 국적(한국/미국/일본)</small> |
-|  | <small>**순서형 (Ordinal)**</small> | <small>순서나 등급은 있으나 간격은 불규칙한 데이터</small> | <small>학점(A/B/C), 고객 만족도(매우 만족/만족/보통/불만족), 건강 상태(양호/보통/불량)</small> |
-| <small>**수치형 (Numerical)**</small> | <small>**이산형 (Discrete)**</small> | <small>셀 수 있는 정수 형태 데이터</small> | <small>자녀 수(0,1,2명), 판매 수량(100개, 250개), 출석일수</small> |
-|  | <small>**연속형 (Continuous)**</small> | <small>연속적으로 측정 가능하며 소수점 값도 존재하는 데이터</small> | <small>키(170.5cm), 체중(65.2kg), 시간(2.35초)</small> |
-|  | <small>**등간형 (Interval)**</small> | <small>0의 의미가 없고, 차이만 의미 있는 데이터</small> | <small>온도(섭씨 20도, 30도), 날짜(2000년, 2025년)</small> |
-|  | <small>**비율형 (Ratio)**</small> | <small>절대적 0이 존재하며, 비율 계산이 가능한 데이터</small> | <small>무게(0kg, 50kg), 매출액(0원, 100만원), 나이(0세, 25세)</small> |
+<table border="1" cellspacing="0" cellpadding="3">
+<thead>
+<tr>
+<th>대분류</th>
+<th>소분류</th>
+<th>설명</th>
+<th>예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>범주형 (Categorical)</b></td>
+<td><b>명목형 (Nominal)</b></td>
+<td>숫자에 의미 없이 단순 구분하는 데이터</td>
+<td>성별(남/여), 혈액형(A/B/O/AB), 국적(한국/미국/일본)</td>
+</tr>
+<tr>
+<td></td>
+<td><b>순서형 (Ordinal)</b></td>
+<td>순서나 등급은 있으나 간격은 불규칙한 데이터</td>
+<td>학점(A/B/C), 고객 만족도(매우 만족/만족/보통/불만족), 건강 상태(양호/보통/불량)</td>
+</tr>
+<tr>
+<td><b>수치형 (Numerical)</b></td>
+<td><b>이산형 (Discrete)</b></td>
+<td>셀 수 있는 정수 형태 데이터</td>
+<td>자녀 수(0,1,2명), 판매 수량(100개, 250개), 출석일수</td>
+</tr>
+<tr>
+<td></td>
+<td><b>연속형 (Continuous)</b></td>
+<td>연속적으로 측정 가능하며 소수점 값도 존재하는 데이터</td>
+<td>키(170.5cm), 체중(65.2kg), 시간(2.35초)</td>
+</tr>
+<tr>
+<td></td>
+<td><b>등간형 (Interval)</b></td>
+<td>0의 의미가 없고, 차이만 의미 있는 데이터</td>
+<td>온도(섭씨 20도, 30도), 날짜(2000년, 2025년)</td>
+</tr>
+<tr>
+<td></td>
+<td><b>비율형 (Ratio)</b></td>
+<td>절대적 0이 존재하며, 비율 계산이 가능한 데이터</td>
+<td>무게(0kg, 50kg), 매출액(0원, 100만원), 나이(0세, 25세)</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
 
   
 
