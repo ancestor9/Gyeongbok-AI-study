@@ -48,4 +48,4 @@
 
 8. 예측 모형 개발
 
-![머신러닝 연구절차](https://www.labellerr.com/blog/content/images/size/w2000/2022/12/ml.process-1.webp)
+![머신러닝 연구절차](https://www.scribbr.nl/wp-content/uploads/2023/07/machine-learning-process-flow.webp)
