@@ -36,14 +36,13 @@
       
 5. 데이터 시각화 (Data Visulaization)
 
-6. 추가 변수 추출(특성공학, Feature Extraction)
-   [특성공학](https://github.com/ancestor9/2025_Spring_Data-Management/blob/main/week_10/A%20Short%20Guide%20for%20Feature%20Engineering%20and%20Feature%20Selection.pdf)
+6. [특성공학](https://github.com/ancestor9/2025_Spring_Data-Management/blob/main/week_10/A%20Short%20Guide%20for%20Feature%20Engineering%20and%20Feature%20Selection.pdf)
     - 1. 기존변수 변환
       - [정규화(number --> number)](https://pycaret.gitbook.io/docs/get-started/preprocessing/scale-and-transform)
       - [이산화(number --> category)](https://pycaret.gitbook.io/docs/get-started/preprocessing/feature-engineering)
       - [dummy화(categoty --> number): Onehotencoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)
 
-    - 2. 새로운 변수 추출
+    - 2. 새로운 변수 추출(Feature Extraction)
 7. 특성 추출 (Feature Selection)
 
 8. 예측 모형 개발 
