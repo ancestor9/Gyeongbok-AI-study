@@ -44,5 +44,6 @@
 
     - 2. 새로운 변수 추출(Feature Extraction)
 7. 특성 추출 (Feature Selection)
+    - [Feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
 
 8. 예측 모형 개발 
