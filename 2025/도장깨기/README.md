@@ -34,7 +34,7 @@
 4. 이상치 처리 (Anomaly Detection)
     - 상자박스 IQR
       
-5. 데이터 시각화 (Data Visulaization)
+5. [데이터 시각화 (Data Visualization)](https://github.com/ancestor9/beat-master/blob/main/5%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
 
 6. [특성공학](https://github.com/ancestor9/2025_Spring_Data-Management/blob/main/week_10/A%20Short%20Guide%20for%20Feature%20Engineering%20and%20Feature%20Selection.pdf)
     - 1. 기존변수 변환
