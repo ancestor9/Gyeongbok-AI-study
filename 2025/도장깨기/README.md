@@ -46,4 +46,6 @@
 7. 특성 추출 (Feature Selection)
     - [Feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
 
-8. 예측 모형 개발 
+8. 예측 모형 개발
+
+### [머신러닝 연구절차](https://www.labellerr.com/blog/content/images/2022/12/ml.process-1.webp)
