@@ -9,7 +9,7 @@
 | 4주차(5.7 ~ 5.8)           | 신장훈교수님 문제 난이도, 유형 등 확보, 초기 로그인 시 문제제출 및 진단(틀린문제 간단 설명), Notion으로 communication, 지속적으로 학생의 진단수준 측정 및 맞춤형 무넺 제출              | PDF 파일 입력(문제, 보기, 난이도, 문제유형)                    | GPU Unix 서버 Setting하기(최재석박사 자문), 매 주 금요일 오후3시 개발팀 미팅        |
 | 5주차(5.12 ~ 5.16)           | pdf 파일 로드 테스트완료, Senior 개발자 자문(5.14, 오후 7~), C-levl 개발자와 전화 자문, 맞춤형 AI 로직 설계, TF 미팅(5.15)                      | Pilot test sponsered by Frukan (5.23)                   | 개발 및 배포 환경 검토중(Vultr, Ligttning ai, 연세 GPU Server), 업체와 협업 진행 검토 중        |
 | 6주차(5.19 ~ 5.23)           | 연세대 서버에 코드 설치 후 사용자 테스트         | TBC(To be continued~)                             | TBC(To be continued~)           |
-| 7주차           | TBC(To be continued~)                           | TBC(To be continued~)                                   | TBC(To be continued~)     |
+| 7주차(5.26 ~ 5.30)           | 연세대 서버 drop, 연구실에 우분투 개발서버 설치, 5.27(화) AI TF 미팅, 5.30(금) 학생 각자 개발 현황 발표| 네이버 N클라우드에 배포 환경 설치  | pdf loading    |
 | 8주차           | TBC(To be continued~)                | TBC(To be continued~)                        | TBC(To be continued~)      |
 | 9주차           | 실제 사용자 대상 베타 테스트, 정량적·정성적 피드백 수집            | 추가 개선점 도출 및 반영, 시스템 안정화                        | 사용자 참여율 저조 및 피드백 미흡          |
 | 10주차          | 추가 기능 요구사항 분석, 개선 방향 논의                            | 신규 기능(예: 실시간 피드백) 설계 및 개발                      | 기술적 난이도 증가 및 일정 관리            |
