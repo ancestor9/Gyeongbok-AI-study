@@ -11,6 +11,6 @@
 | 6주차(5.19 ~ 5.23)           | 연세대 서버에 코드 설치 후 사용자 테스트         | TBC(To be continued~)                             | TBC(To be continued~)           |
 | 7주차(5.26 ~ 5.30)           | 연세대 서버 drop, 연구실에 우분투 개발서버 설치, 5.27(화) AI TF 미팅, 5.30(금) 학생 각자 개발 현황 발표| 네이버 N클라우드에 배포 환경 설치(6.4, 1시), 비씨티원과 교수 미팅(6.4, 5시),   | pdf loading, 학생들의 현재 문재유형별 수준을 시계열로 어떻게 측정할까?(BMK, pyBKT 모듈, 논문 A Tool to Assess Fine-Grained Knowledge from Correct and Incorrect Answers)    |
 | 8주차(6.2~6.6)           | TBC(To be continued~)                | TBC(To be continued~)                        | TBC(To be continued~)      |
-| 9주차           | 실제 사용자 대상 베타 테스트, 정량적·정성적 피드백 수집            | 추가 개선점 도출 및 반영, 시스템 안정화                        | 사용자 참여율 저조 및 피드백 미흡          |
-| 10주차          | 추가 기능 요구사항 분석, 개선 방향 논의                            | 신규 기능(예: 실시간 피드백) 설계 및 개발                      | 기술적 난이도 증가 및 일정 관리            |
-| 11주차          | 신규 기능 프로토타입 개발, 통합 테스트                             | 시스템 성능 개선 및 확장성 검토                                | 시스템 복잡도 증가 및 유지보수성 저하      |
+| 9주차           | TBC(To be continued~)             | TBC(To be continued~)                         | TBC(To be continued~)          |
+| 10주차          | TBC(To be continued~)                            | TBC(To be continued~)                       | TBC(To be continued~)             |
+| 11주차          | TBC(To be continued~)                              | TBC(To be continued~)                                 | TBC(To be continued~)       |
