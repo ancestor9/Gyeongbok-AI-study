@@ -10,7 +10,7 @@
 | 5주차(5.12 ~ 5.16)           | pdf 파일 로드 테스트완료, Senior 개발자 자문(5.14, 오후 7~), C-levl 개발자와 전화 자문, 맞춤형 AI 로직 설계, TF 미팅(5.15)                      | Pilot test sponsered by Frukan (5.23)                   | 개발 및 배포 환경 검토중(Vultr, Ligttning ai, 연세 GPU Server), 업체와 협업 진행 검토 중        |
 | 6주차(5.19 ~ 5.23)           | 연세대 서버에 코드 설치 후 사용자 테스트         | TBC(To be continued~)                             | TBC(To be continued~)           |
 | 7주차(5.26 ~ 5.30)           | 연세대 서버 drop, 연구실에 우분투 개발서버 설치, 5.27(화) AI TF 미팅, 5.30(금) 학생 각자 개발 현황 발표| 네이버 N클라우드에 배포 환경 설치(6.4, 1시), 비씨티원과 교수 미팅(6.4, 5시),   | pdf loading, 학생들의 현재 문재유형별 수준을 시계열로 어떻게 측정할까?(BMK, pyBKT 모듈, 논문 A Tool to Assess Fine-Grained Knowledge from Correct and Incorrect Answers)    |
-| 8주차(6.2~6.6)           | TBC(To be continued~)                | TBC(To be continued~)                        | TBC(To be continued~)      |
-| 9주차           | TBC(To be continued~)             | TBC(To be continued~)                         | TBC(To be continued~)          |
+| 8주차(6.2~6.6)           | 비씨티원미팅(5시), ncloud 설치,            | 1차 개발 완료(6.13)                       | File-Upload(기출문제, 정답, 유형, 난이도) & 테스트  |
+| 9주차(6.9~6.13) | TBC(To be continued~)             | TBC(To be continued~)                         | TBC(To be continued~)          |
 | 10주차          | TBC(To be continued~)                            | TBC(To be continued~)                       | TBC(To be continued~)             |
 | 11주차          | TBC(To be continued~)                              | TBC(To be continued~)                                 | TBC(To be continued~)       |
